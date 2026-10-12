@@ -1,0 +1,6 @@
+{
+  "name": "MediLight - Smart Medicine Reminder",
+  "description": "Smart daily medication schedule reminder, dose adherence tracker, audible alert chime, refill tracking, and personal care plan organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
